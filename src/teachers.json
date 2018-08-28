@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Ahmad",
+    "picture": "images/ahmad.jpg",
+    "age": 30,
+    "department": "Software Engineering",
+    "rank": "Master"
+  },
+  {
+    "id": 1,
+    "name": "Sarah",
+    "picture": "images/sarah.jpg",
+    "age": 40,
+    "department": "Software Engineering",
+    "rank": "Phd"
+  },
+  {
+    "id": 2,
+    "name": "Kabir",
+    "picture": "images/kabir.jpg",
+    "age": 35,
+    "department": "Network",
+    "rank": "Master"
+  },
+  {
+    "id": 4,
+    "name": "John",
+    "picture": "images/john.jpg",
+    "age": 55,
+    "department": "Software Engineering",
+    "rank": "Phd"
+  }
+]
